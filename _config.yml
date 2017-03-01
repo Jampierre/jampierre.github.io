@@ -7,6 +7,7 @@ url: "" # the base hostname & protocol for your site
 
 twitter_username: JamPih
 github_username: Jampierre
+jampierre.rocha: jampierre.rocha
 
 # Build settings
 markdown: kramdown
